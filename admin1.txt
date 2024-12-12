@@ -1,0 +1,3 @@
+11,10% off on Electronics,10,3
+6,thich,5,1
+100,20% off on milk,20,6

@@ -1,0 +1,7 @@
+6,son,5
+1,drink,son,5
+1,drink,son,5
+2,bread,son,4
+2,bread,son,4
+2,bread,son,4
+4,juice,son,5

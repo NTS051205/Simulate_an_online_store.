@@ -1,0 +1,7 @@
+1,drink,20,5
+2,bread,10,30
+3,laptop,1000,9
+4,juice,50,90
+5,television,2000,4
+6,milk,20,40
+7,fan,30,30
