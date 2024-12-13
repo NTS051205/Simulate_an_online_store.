@@ -129,39 +129,6 @@ Product added to cart.
 3. **User Authentication:** Passwords are stored in plain text; consider encrypting them for better security.
 
 ---
-Constrain (các ràng buộc hệ thống)
-
-Việc có các constrain trong 1 hệ thống sẽ khiến cho việc test trơn tru hơn cũng như để theo dõi được những tồn đọng để từ đó có thể cải thiện trong các phiên bản tiếp theo (nếu cần):
-
-Dữ liệu đầu vào được giả định là "sạch".
-
-Format database bắt buộc phải theo nguyên tắc:
-
-Mỗi object cách nhau bởi 1 dòng trống.
-
-Mở đầu và kết thúc file database là 1 dòng trống.
-
-Phải biết trước ID để tìm chính xác sản phẩm cần tìm.
-
-Data lưu trữ và hiển thị vẫn ở dạng .txt, không phải dạng table hay JSON tiêu chuẩn nên việc truy vấn và phân tích dữ liệu còn gặp khó khăn và không hiệu quả.
-
-Định hướng cải tiến:
-
-Chuyển sang cơ sở dữ liệu hoàn chỉnh khi lượng người dùng hoặc số lượng sản phẩm lớn hơn (MongoDB với JSON, Table với MySQL,...).
-
-Thiết kế giao diện GUI hoàn chỉnh.
-
-Nhận xét
-
-Độ tối ưu:
-
-Thời gian: Các thuật toán sử dụng trong bài tập nhóm là các thuật toán cơ bản (linear search,...) với độ phức tạp là O(n). Lượng dữ liệu lớn có thể khiến cho hệ thống hoạt động chậm và không hiệu quả, nên nhóm chỉ xét ở ngữ cảnh demo, chưa có tính ứng dụng cao.
-
-Không gian: Lưu dữ liệu thông qua vector và file tĩnh chưa được tối ưu nếu số lượng data lớn.
-
-Điểm cải tiến:
-
-Các kiến thức nâng cao trong OOP như biến, hàm tĩnh, hàm/lớp ảo, template chưa được vận dụng.
 
 ## Future Enhancements
 - Implement a graphical user interface (GUI) for better user experience.
