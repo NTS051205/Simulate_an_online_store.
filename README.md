@@ -1,10 +1,40 @@
 # Simulate_an_online_store.
 # README
 
+Thành viên
+
+Họ và tên
+
+Mã sinh viên
+
+Lê Đăng Tấn
+
+11236199
+
+Nguyễn Ngọc Hà
+
+11236099
+
+Nguyễn Vũ Anh Tuấn
+
+11216081
+
+Nguyễn Tuấn Nam
+
+11214133
+
+Nguyễn Hồng Phi
+
+11236179
+
+Nguyễn Quang Sơn
+
+11236195
 ## Overview
 This program is a basic simulation of an e-commerce management system. It provides functionality for both **administrators** (managers) and **customers**, allowing them to interact with products, promotions, user accounts, and orders. The system is designed with a clear menu-driven interface and includes features like login, product management, cart functionality, and user reviews.
 
 ---
+
 
 ## Features
 
